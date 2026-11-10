@@ -1,0 +1,62 @@
+docs/phpdoc/
+test/message.txt
+test/testbootstrap.php
+.idea
+build/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies
+vendor/
+node_modules/
+
+# Logs / temp / backups
+*.log
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Uploaded attachments
+attachments/*
+!attachments/.gitkeep
+
+# Office documents
+*.xls
+*.xlsx
+*.xlsm
+*.csv
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# PDF
+*.pdf
+
+# Archives
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Images / media (large)
+*.psd
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.wav
+
+# Database dumps
+*.sql
+*.sqlite
+*.db
+
+# Copies of scripts
+*- Copy*.php
